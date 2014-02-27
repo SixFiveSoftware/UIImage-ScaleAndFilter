@@ -2,8 +2,12 @@
 //  UIImage+ScaleAndFilter.m
 //  UIImageTest
 //
-//  Created by BJ Miller on 2/26/14.
-//  Copyright (c) 2014 Six Five Software, LLC. All rights reserved.
+//  Created by Stanford University CS193p Instructor
+//  Copyright (c) 2013 Stanford University. All rights reserved.
+//
+//  This category was taken from Stanford University's CS193p course
+//   and modified to have more appropriately named category to more 
+//   closely reflect actual purpose of class extension.
 //
 
 #import "UIImage+ScaleAndFilter.h"
